@@ -1,0 +1,102 @@
+body,html{
+	background: #282828;
+	}
+.wrapper{
+	background: #ffffff;
+	width: 840px;
+	height: 1010px;
+	box-sizing: border-box;
+	margin: 20px auto;
+	padding: 21px 110px 21px 110px;
+	}
+header{
+	height: 52px;
+	font-size: 12px;
+	font-family: arial;
+	color: #243756;
+	}
+header span{
+	margin: 0px;
+	}
+span.one{
+	display: inline-block;
+	float: right;
+	}
+div.main_message{
+	height: 300px;
+	background: #445878;
+	color: #ffffff;
+	font-family: calibri;
+	box-sizing: border-box;
+	padding: 30px;
+	margin-bottom: 20px;
+	}
+div.main_message p{
+	margin: 0px 0px 25px 0px;
+	}
+.heading,.1st_paragraph,.2nd_paragraph{
+	display: block;
+	font-size: 14px;
+	}
+.heading{
+	display: block;
+	font-size: 30px;
+	}
+button.read{
+	display: block;
+	width:140px;
+	height: 30px;
+	background: #243756;
+	color: #ffffff;
+	border: 0px;
+	}
+div.sub_message{
+	height: 220px;
+	width: 220px;
+	float: left;
+	background: #87c442;
+	color: #ffffff;
+	font-family: calibri;
+	box-sizing: border-box;
+	padding: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	}	
+.sub_heading{
+	font-size: 18px;
+	}
+.text{
+	font-size: 14px;
+	}
+button.load{
+	display: block;
+	width:125px;
+	height: 30px;
+	background: #558A19;
+	color: #ffffff;
+	border: 0px;
+	}
+div.sub_message p{
+	margin: 0px 0px 20px 0px;
+	}
+div.three{
+	float: right;
+	display: inline-block;
+	margin-bottom: 22px;
+	}
+div.boy_girl{
+	float: left;
+	display: inline-block;
+	margin-bottom: 20px;
+	}
+.p,.twitter,.wf{
+	display: inline-block;
+	margin-right: 22px;
+	}
+.fb{
+	display: inline-block;
+	}
+div.p,div.twitter,div.wf,div.fb{
+	float: left;
+	display: inline-block;
+	}
